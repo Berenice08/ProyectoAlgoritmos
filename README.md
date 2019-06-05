@@ -18,3 +18,12 @@ ProgramaInterfazyBaseDeDatos: Contiene Notebook para crear la base de datos usad
 
 Receta: Notebook para tempate de receta en txt (queda para trabajo a futuro)
 
+
+INSTALACIONES NECESARIAS:
+
+Para poder correr los códigos tuvimos que instalar:
+
+-MYSQL
+-mysql.connector
+-tener la base de datos "hospital_prueba1" y csv
+-Tkinter
