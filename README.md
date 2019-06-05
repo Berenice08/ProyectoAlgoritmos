@@ -8,9 +8,13 @@ Santos Sanchez Betsabe
 
 
 CONTENIDO DE CARPETAS:
+
+
 Pandas: Notebooks con el análisis de datos usando paqueteria de Pandas
 
+
 ProgramaInterfazyBaseDeDatos: Contiene Notebook para crear la base de datos usada, y el script "finalprog.py" que es el código de la interfaz
+
 
 Receta: Notebook para tempate de receta en txt (queda para trabajo a futuro)
 
